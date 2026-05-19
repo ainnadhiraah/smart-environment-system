@@ -20,6 +20,7 @@ An Arduino-based embedded monitoring system that uses an LDR sensor for real-tim
 
 ## System Workflow
 
+```
 LDR Sensor
 ↓
 Analog Signal Reading
@@ -31,6 +32,7 @@ Threshold Validation
 System State Detection
 ↓
 LED Output + Serial Debugging
+```
 
 ## Technologies
 - Arduino
